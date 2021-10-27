@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "41182191",
+    "project_id": "ghana-tow",
+    "storage_bucket": "ghana-tow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41182191:android:7ab72dcc84025657fecc1a",
+        "android_client_info": {
+          "package_name": "com.example.Towit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41182191-ae34rut90dvmhah7hrdihvgv6r3o1chl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQE79vk87170TVc638vMxNaqn40t6eQk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41182191-ae34rut90dvmhah7hrdihvgv6r3o1chl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
